@@ -1,0 +1,3 @@
+[submodule "dfu-util-dfu-util"]
+	path = dfu-util-dfu-util
+	url = https://git.code.sf.net/p/dfu-util/dfu-util
